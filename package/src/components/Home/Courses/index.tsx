@@ -5,6 +5,14 @@ import { CourseData } from '@/app/api/data'
 import { Icon } from '@iconify/react/dist/iconify.js'
 import Image from 'next/image'
 
+interface Name {
+  imageSrc: string
+  course: string
+  price: string
+  profession: string
+  category: 'webdevelopment' | 'mobiledevelopment' | 'datascience' | 'cloudcomputing'
+}
+
 const NamesList = () => {
   const [selectedButton, setSelectedButton] = useState<
     | 'mobiledevelopment'
