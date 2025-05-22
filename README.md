@@ -1,4 +1,4 @@
-# # Si Educational Free NextJs Landing Page Template
+# Si Educational Free NextJs Landing Page Template
 
 [View Live Preview](https://si-educational-nextjs.vercel.app/) | [Download](https://getnextjstemplates.com/products/si-educational-free-nextjs-landing-page-template) | [CheckOut Nextjs Templates](https://getnextjstemplates.com/)
 
