@@ -1,6 +1,6 @@
 # Si Educational Free NextJs Landing Page Template
 
-🌏[Live Preview](https://si-educational-nextjs.vercel.app/) | 📥[Download](https://getnextjstemplates.com/products/si-educational-free-nextjs-landing-page-template) | 👉[Browse Next.js Templatess](https://getnextjstemplates.com/)
+🌏[Live Preview](https://si-educational-nextjs.vercel.app/) | 📥[Download](https://getnextjstemplates.com/products/si-educational-free-nextjs-landing-page-template) | 👉[Browse Next.js Templates](https://getnextjstemplates.com/)
 ---
 <a target="_blank" href="https://getnextjstemplates.com/products/si-educational-free-nextjs-landing-page-template">
   <img src="https://adminmart.github.io/template_api/images/website-template/Si-Educational-NextJs-Free-Landing-Page-Template-Based-On-TailwindCSS-Headless-UI.jpg" />
