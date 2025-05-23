@@ -1,7 +1,8 @@
-# Si Educational Free NextJs Landing Page Template
+# # Si Educational Free NextJs Landing Page Template
 
-🌏[Live Preview](https://si-educational-nextjs.vercel.app/) | 📥[Download](https://getnextjstemplates.com/products/si-educational-free-nextjs-landing-page-template) | 👉[Browse Next.js Templates](https://getnextjstemplates.com/)
----
+🌏[View Live Preview](https://si-educational-nextjs.vercel.app/) | 📥[Download](https://getnextjstemplates.com/products/si-educational-free-nextjs-landing-page-template) | 👉[Browse Next.js Templates](https://getnextjstemplates.com/)
+
+
 <a target="_blank" href="https://getnextjstemplates.com/products/si-educational-free-nextjs-landing-page-template">
   <img src="https://adminmart.github.io/template_api/images/website-template/Si-Educational-NextJs-Free-Landing-Page-Template-Based-On-TailwindCSS-Headless-UI.jpg" />
 </a>
@@ -26,6 +27,7 @@ The easiest way to get started is by cloning the repository or download the zip 
 
 ```bash
 git clone https://github.com/GetNextjsTemplates/si-educational-nextjs.git
+```
 
 #### 2. **Install Dependencies**
 
@@ -64,6 +66,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://getne
 If you find this template helpful, give it a ⭐️ and share it with your fellow developers. 
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GetNextjsTemplates/si-educational-nextjsfree&root-directory=package)
+
 
 Happy coding! 💻
 
