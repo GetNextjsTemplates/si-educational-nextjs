@@ -64,7 +64,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://getne
 
 If you find this template helpful, give it a ⭐️ and share it with your fellow developers. 
 
-[![Deploy with Vercel](https://github.com/GetNextjsTemplates/paidin-tailwind-nextjs-free&root-directory=package)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GetNextjsTemplates/paidin-tailwind-nextjs-free&root-directory=package)
 
 Happy coding! 💻
 
