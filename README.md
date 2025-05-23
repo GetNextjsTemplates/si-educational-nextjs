@@ -17,7 +17,7 @@
 ---
 ## 💾 Installation Guide
 
-Welcome to the **Dsign Nextjs Landing Page Template**! This guide will walk you through the installation and setup process, so you can get started with building your custom web page in no time.
+Welcome to the **Si Educational Nextjs Landing Page Template**! This guide will walk you through the installation and setup process, so you can get started with building your custom web page in no time.
 
 ### 📝 Steps to Install
 
