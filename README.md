@@ -25,8 +25,7 @@ Welcome to the **Dsign Nextjs Landing Page Template**! This guide will walk you 
 The easiest way to get started is by cloning the repository or download the zip file. You can do this with the following command:
 
 ```bash
-git clone https://github.com/GetNextjsTemplates/paidin-tailwind-nextjs-free.git
-```
+git clone https://github.com/GetNextjsTemplates/si-educational-nextjs.git
 
 #### 2. **Install Dependencies**
 
@@ -64,8 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://getne
 
 If you find this template helpful, give it a ⭐️ and share it with your fellow developers. 
 
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GetNextjsTemplates/paidin-tailwind-nextjs-free&root-directory=package)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GetNextjsTemplates/si-educational-nextjsfree&root-directory=package)
 
 Happy coding! 💻
 
