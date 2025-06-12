@@ -4,7 +4,7 @@
 
 
 <a target="_blank" href="https://getnextjstemplates.com/products/si-educational-free-nextjs-landing-page-template">
-  <img src="https://adminmart.github.io/template_api/images/website-template/Si-Educational-NextJs-Free-Landing-Page-Template-Based-On-TailwindCSS-Headless-UI.jpg" />
+  <img src="https://i.pinimg.com/736x/d9/75/54/d97554dea735a0cdb783c760dff14a8f.jpg" />
 </a>
 
 <br> </br>
